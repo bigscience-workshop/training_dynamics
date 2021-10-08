@@ -1,0 +1,3 @@
+[submodule "structural-probes"]
+	path = structural-probes
+	url = https://github.com/oserikov/structural-probes
